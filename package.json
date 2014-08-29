@@ -1,7 +1,7 @@
 {
-  "name": "mammoth-carbon-products",
+  "name": "bluplate-starter",
   "version": "1.0.0",
-  "description": "WordPress theme for Mammoth Carbon Products",
+  "description": "Gulp + Sass starter package for WordPress themes",
   "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {
